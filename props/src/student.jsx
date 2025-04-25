@@ -15,7 +15,6 @@
 // }
  
 // here object props
-
 function Student({user}){
     return(
         <div>
